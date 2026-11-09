@@ -1,0 +1,6 @@
+App name: Airya (provisional; clearance outstanding)
+Subtitle: Local Help & Neighbors
+Tagline: Good neighbors. Great connections.
+Category suggestion: Lifestyle
+Price suggestion: Free
+Description summary: A local community feed where neighbors can share home-project requests, discover nearby contractors and recommendations, reply publicly, and message privately.

@@ -1,0 +1,43 @@
+Field,Value
+App name,Airya
+Subtitle,Local Help & Neighbors
+Promotional text,"Need a hand around the house? Post a project, discover local contractors, get neighbor recommendations, and keep conversations in one place."
+Keywords,"handyman,plumber,electrician,home repair,local services,remodel,community,referrals,quotes"
+Description,"Airya helps neighbors connect with local home-service professionals and share helpful recommendations.
+
+Need help with a leaking faucet, electrical project, painting, landscaping, or general repairs? Post what you need and connect with contractors in your community.
+
+FOR HOMEOWNERS & NEIGHBORS
+• Share a home-service request with a description and photos.
+• Browse local conversations and recommendations.
+• Explore contractor profiles by specialty.
+• Comment on requests and communicate privately.
+
+FOR CONTRACTORS
+• Create a contractor profile and list your trade.
+• Discover job requests in your community.
+• Respond to requests and chat with potential customers.
+
+Airya brings neighborhood word of mouth and home-project conversations together in one convenient place.
+
+Availability and participating contractors vary by area. Users should independently verify licensing, insurance, qualifications, pricing, and references before hiring. Airya does not guarantee work or the credentials of listed providers."
+Primary category (suggested),Lifestyle
+Secondary category (suggested),Business
+Platform,iOS
+Default language,English (U.S.)
+SKU (suggested),AIRYA-IOS-001
+Bundle ID (from current v4 Xcode project),com.neighbortrade.mobile (preserved for installed dev app; choose unique owned bundle ID for new App Store record)
+Version for first store release,1.0 (suggestion; update Xcode marketing version to match)
+Copyright,© 2026 [YOUR LEGAL NAME OR COMPANY]
+Pricing,Free (suggested; confirm with developer account)
+Support URL,[PUBLISH YOUR SUPPORT PAGE URL]
+Privacy policy URL,[PUBLISH YOUR PRIVACY POLICY URL]
+Marketing URL (optional),[YOUR WEBSITE OR LEAVE EMPTY]
+App Review contact,"[YOUR NAME, PHONE, EMAIL]"
+Demo credentials,[TEST RESIDENT AND CONTRACTOR ACCOUNTS]
+Age rating,Answer Apple questionnaire honestly — do not assume 4+
+App privacy questionnaire,Complete with confirmed collection practices; draft in PRIVACY_DISCLOSURES.md
+Content rights,"Confirm ownership/license of all screenshots, imagery and assets"
+Encryption export compliance,Confirm HTTPS/standard encryption usage in Xcode and App Store Connect; do not guess
+Advertising identifier,Do not indicate IDFA unless implemented; verify app and SDKs
+Terms of use,[PUBLISH YOUR TERMS URL IF APPLICABLE]
